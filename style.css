@@ -2,6 +2,21 @@ body{
     background: blue;
 }
 
+#div-head {
+    background: rgb(4, 31, 56);
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+}
+
+#p-logo {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+
 div{
     padding: 10px;
     background: green;
